@@ -33,3 +33,9 @@ The goal of the game is paint the board with your color by walking on the square
 
 > captured on iphone 6
 
+
+> -------------------------
+
+Copyright © 2020 Rakan
+
+
