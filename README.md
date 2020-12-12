@@ -1,6 +1,4 @@
-
 <center> <h1> The Cubels </h1> </center>
-
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/57303814/101992248-ac4d2600-3c66-11eb-8b7f-d30009032a8f.gif" alt="animated" />
@@ -29,4 +27,4 @@ The goal of the game is paint the board with your color by walking on the square
 ## Gameplay Video:
 
 
-<center> [![](http://img.youtube.com/vi/UwAdS2VjKes/0.jpg)](http://www.youtube.com/watch?v=UwAdS2VjKes "The Cubels") </center>
+<center>[![https://user-images.githubusercontent.com/57303814/101993385-0f42bb00-3c6f-11eb-9975-d772abf70407.png](http://img.youtube.com/vi/UwAdS2VjKes/0.jpg)](http://www.youtube.com/watch?v=UwAdS2VjKes "The Cubels") </center>
