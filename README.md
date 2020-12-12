@@ -31,5 +31,5 @@ The goal of the game is paint the board with your color by walking on the square
 
 [![The Cubels](http://img.youtube.com/vi/UwAdS2VjKes/0.jpg)](http://www.youtube.com/watch?v=UwAdS2VjKes "The Cubels")
 
-captured on iphone 6
+> captured on iphone 6
 
