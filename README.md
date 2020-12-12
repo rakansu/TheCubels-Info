@@ -8,7 +8,7 @@
 ## Project Status:  Unpublished
 
 ## Platforms: 
--  <h2> IOS <h2>
+-  IOS
 
 ## Project Description:
 
