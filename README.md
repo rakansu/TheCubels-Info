@@ -1,8 +1,9 @@
-<center> <h1> The Cubels </h1> </center>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/57303814/101992248-ac4d2600-3c66-11eb-8b7f-d30009032a8f.gif" alt="animated" />
 </p>
+
+## Name: The Cubels
 
 ## Platform: IOS
 
