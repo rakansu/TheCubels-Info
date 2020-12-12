@@ -3,14 +3,11 @@
   <img src="https://user-images.githubusercontent.com/57303814/101992248-ac4d2600-3c66-11eb-8b7f-d30009032a8f.gif" alt="animated" />
 </p>
 
-## Name: 
-> The Cubels
+## Name:  The Cubels
 
-## Platform
-> IOS
+## Platforms:   IOS
 
-## Project Status: 
-> Unpublished
+## Project Status:  Unpublished
 
 ## Project Description:
 
